@@ -1,0 +1,19 @@
+En la primera página, tenemos un fondo azul brillante y un texto en color azul aqua, colores que no se visualizan bien juntos y cansan la vista en consecuencia. Se debería utilizar un tono blanco y a poder ser un azul menos vibrante.
+El boton no, no tiene ninguna acción a pesar de ser lo más llamativo. Es por tanto un CTA innecesario.
+Para dirigirnos a la siguiente pagina, se pone la atencion en las palabras “next page”, con un color diferente, que hace que vayamos directamente a esta cuando el enlace está en otras palabras. 
+
+En la segunda página, por un lado el mensaje de cookies emplea rojo, un color que se asocia con peligro y agresividad, tono que también usan sus palabras. Por otro lado, el color de las indicaciones del formulario vuelve a repetir lo ya mencionado, ademas de que la posicion puede hacer que el usuario no se de cuenta de esto.
+Se incluye un temporizador que no sirve de nada y los puntos que distraen al usuario.
+El modal de ayuda tiene el boton que normalmente se emplea para minimizarlo al contrario, por lo que al pulsar por inercia se va ampliando y dificulta la vision. 
+Cuando aparece el mensaje del temporizador, no se deja claro donde está el boton de cerrar, y de nuevo encontramos un boton sin ninguna función, que esta vez utiliza colores que relacionamos con cerrado y abierto y refuerza la sensacion de que es el boton a emplear.
+En el input, en lugar de emplear el placeholder, ese texto está escrito como valor del input. Ademas el color deberia ser negro, de nuevo por problemas de visualizacion.
+La posicion del reset es la típica de siguiente o aceptar, lo que va a provocar errores. Cancelar está resaltado en lugar de siguiente, y el modal que abre, emplea de nuevo colores incorrectos.
+Cuando metemos datos correctos, se repite lo mismo con los colores. 
+Aceptar los terminos deberia ser en afirmativo.
+
+En la segunda página, los checkbox no deberian estar marcados en este caso, ya que la seleccion pedida es mucho menor. Te pide subir una imagen, y sin embargo, el boton que es CTA dice DESCARGAR y te descarga una imagen, mientras que upload pasa desapercibido por tener un color más claro. Si te equivocas, se vuelve a seleccionar. Si vas deseleccionado hasta 3, se desmarcan todos.
+Cuando subes la imagen, permanece la animacion de cargando. Ademas, los checkbox es mejor que no estén con fondo por defecto, ya que crean la sensacion de pulsado.
+
+En la página 3, los paises está mediante banderas. Si queremos hacer esto, deberiamos acompañarlo con el nombre del pais. Se exige que la fecha puesta y la edad coincidan. La barra de edad contempla numeros irreales de posible edad (mas de 100) con lo que es dificil situarse. El genero y el titulo no contemplan el genero femenino, dando error si pulsas mrs y femenino.
+
+En la cuarta pagina, los checkbox están arriba, es mejor que estén abajo, ya que se relaciona mejor. Las selecciones usan palabras ambiguas, en la segunda, por ejemplo, todas las imagenes son correctas. Si te equivocas, te vuelve a echar para atrás.
